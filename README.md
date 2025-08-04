@@ -15,15 +15,25 @@ Understanding how mortality rates differ between males and females due to NCDs (
 ## 📂 Folder Structure
 
 NCD_Mortality_Project/
+
 ├── data/
+
 │ └── ncd_gender_cleaned.csv
+
 ├── notebooks/
+
 │ └── analysis.ipynb
+
 ├── dashboard/
+
 │ └── NCD_Mortality_Report.pbix
+
 ├── presentation/
+
 │ └── capstone_presentation.pptx
+
 └── README.md
+
 
 
 ---
